@@ -32,5 +32,5 @@
     "iconUrl": "http://hdrhistogram.github.io/HdrHistogram.NET/HdrHistogram-icon-64x64.png"
   },
   "title": "HdrHistogram",
-  "version": "2.0.0-*"
+  "version": "2.0.0-beta1"
 }
